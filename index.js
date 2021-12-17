@@ -36,6 +36,8 @@ app.get('/:shortUrl', async (req, res) => {
 })
 
 
+
+
 //Connect to database
 connectDB();
 
